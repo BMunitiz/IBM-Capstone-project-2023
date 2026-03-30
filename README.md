@@ -1,4 +1,4 @@
-# IBM-Capstone-project-2023
+# IBM Capstone project 2023
 
 # SpaceX Launch Records Dashboard
 
